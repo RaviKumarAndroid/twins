@@ -5,5 +5,5 @@
   "time_between_ad_max":20000,
   "conversion_percentage":100,
   "apps":["4917655169142-com.marveldeal.wilson.marvelvpn-android"],
-  "countries_allowed":["US", "UK", "JP"]
+  "countries_allowed":["US", "UK", "JP", "CA"]
 }
