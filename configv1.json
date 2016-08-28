@@ -1,7 +1,8 @@
 {
   "enabled":true,
   "click_percentage":10,
-  "time_between_ad":10000,
+  "time_between_ad_min":10000,
+  "time_between_ad_max":20000,
   "conversion_percentage":10,
   "apps":["", "", "", ""],
   "countries_allowed":["US", "UK", "JP"]
