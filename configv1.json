@@ -3,5 +3,6 @@
   "click_percentage":10,
   "time_between_ad":10000,
   "conversion_percentage":10,
+  "apps":["", "", "", ""]
   "countries_allowed":["US", "UK", "JP"]
 }
