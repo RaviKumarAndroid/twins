@@ -7,5 +7,5 @@
   "apps":["4917655169142-com.marveldeal.wilson.marvelvpn-android"],
   "countries_allowed":["US", "UK", "JP", "CA"],
   "randomAdvId":false,
-  "unique_conv":true
+  "multiple_conversion_allowed":true
 }
