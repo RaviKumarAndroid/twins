@@ -1,8 +1,8 @@
 {
   "enabled":true,
   "click_percentage":10,
-  "time_between_ad_min":10000,
-  "time_between_ad_max":20000,
+  "time_between_ad_min":1800000,
+  "time_between_ad_max":3600000,
   "conversion_percentage":30,
   "apps":["4917655169142-com.marveldeal.wilson.marvelvpn-android"],
   "countries_allowed":["US", "UK", "AU", "CA"],
