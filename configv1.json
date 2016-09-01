@@ -1,9 +1,9 @@
 {
   "enabled":true,
-  "click_percentage":10,
+  "click_percentage":100,
   "time_between_ad_min":1800000,
   "time_between_ad_max":3600000,
-  "conversion_percentage":30,
+  "conversion_percentage":70,
   "apps":["4917655169142-com.marveldeal.wilson.marvelvpn-android","4917655169142-com.marveldeal.truevpn-android","4917655169142-com.marveldeal.translatorkeyboard-android"],
   "countries_allowed":["US", "UK", "AU", "CA"],
   "randomAdvId":false,
