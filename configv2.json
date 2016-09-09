@@ -1,6 +1,6 @@
 {
-	"time_between_ad_min": 1800000,
-	"time_between_ad_max": 3600000,
+	"time_between_service_start_min": 1800000,
+	"time_between_service_start_max": 3600000,
 	"cross": {
 		"enabled": true,
 		"click_percentage": 100,
