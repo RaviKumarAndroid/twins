@@ -11,7 +11,7 @@
   "multiple_conversion_allowed":false,
   "notifyServer":true
 },
-"ext":{
+"next":{
   "enabled":true,
   "click_percentage":100,
   "time_between_ad_min":1800000,
