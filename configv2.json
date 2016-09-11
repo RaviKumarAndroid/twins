@@ -27,7 +27,6 @@
 		"conversion_percentage": 100,
 		"apps": ["4917655169142-com.marveldeal.truevpn-android"],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA"],
-		"randomAdvId": false,
 		"multiple_conversion_allowed": false,
 		"notifyServer": true
 	}
