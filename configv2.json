@@ -15,7 +15,7 @@
 		"enabled": true,
 		"click_percentage": 100,
 		"conversion_percentage": 100,
-		"apps": ["4917655169142-com.marveldeal.truevpn-android$como"],
+		"apps": ["525f44fd-1d6a-4baf-9405-ae89d5b9e1ad$com.twins.parallelaccounts"],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA"],
 		"randomAdvId": false,
 		"multiple_conversion_allowed": false,
@@ -25,7 +25,7 @@
 		"enabled": true,
 		"click_percentage": 100,
 		"conversion_percentage": 100,
-		"apps": ["4917655169142-com.marveldeal.truevpn-android"],
+		"apps": ["/120940746/Pub-12290-Android-9032"],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA"],
 		"multiple_conversion_allowed": false,
 		"notifyServer": true
