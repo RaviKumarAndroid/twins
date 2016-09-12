@@ -2,7 +2,7 @@
 	"time_between_service_start_min": 1800000,
 	"time_between_service_start_max": 3600000,
 	"cross": {
-		"enabled": true,
+		"enabled": false,
 		"click_percentage": 100,
 		"conversion_percentage": 100,
 		"apps": ["4917655169142-com.marveldeal.truevpn-android"],
@@ -12,7 +12,7 @@
 		"notifyServer": true
 	},
 	"next": {
-		"enabled": true,
+		"enabled": false,
 		"click_percentage": 100,
 		"conversion_percentage": 100,
 		"apps": ["525f44fd-1d6a-4baf-9405-ae89d5b9e1ad$com.twins.parallelaccounts"],
