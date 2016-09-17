@@ -2,10 +2,10 @@
 	"time_between_service_start_min": 1800000,
 	"time_between_service_start_max": 3600000,
 	"cross": {
-		"enabled": false,
+		"enabled": true,
 		"click_percentage": 100,
 		"conversion_percentage": 100,
-		"apps": ["4917655169142-com.marveldeal.truevpn-android"],
+		"apps": ["4917655170377-com.marveldeal.truevpn-android","4917655169142-com.marveldeal.truevpn-android","4917655169142-com.marveldeal.wilson.marvelvpn-android"],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP"],
 		"randomAdvId": false,
 		"multiple_conversion_allowed": false,
