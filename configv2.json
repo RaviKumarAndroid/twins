@@ -13,6 +13,7 @@
 	},
 	"next": {
 		"enabled": false,
+		"params":["HAHA"],
 		"click_percentage": 100,
 		"conversion_percentage": 100,
 		"apps": ["b938edb2-da6c-4d3a-b63c-9a3a2dcb682b$com.effecto.prisma.imageeditor"],
