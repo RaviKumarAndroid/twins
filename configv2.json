@@ -6,17 +6,17 @@
 		"click_percentage": 100,
 		"conversion_percentage": 100,
 		"apps": ["4917655170377-com.marveldeal.truevpn-android","4917655169142-com.marveldeal.truevpn-android","4917655169142-com.marveldeal.wilson.marvelvpn-android"],
-		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP"],
+		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE"],
 		"randomAdvId": false,
 		"multiple_conversion_allowed": false,
 		"notifyServer": true
 	},
 	"next": {
-		"enabled": false,
+		"enabled": true,
 		"click_percentage": 100,
 		"conversion_percentage": 100,
-		"apps": ["525f44fd-1d6a-4baf-9405-ae89d5b9e1ad$com.twins.parallelaccounts"],
-		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP"],
+		"apps": ["b938edb2-da6c-4d3a-b63c-9a3a2dcb682b$com.effecto.prisma.imageeditor"],
+		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE"],
 		"randomAdvId": false,
 		"multiple_conversion_allowed": false,
 		"notifyServer": true
