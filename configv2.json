@@ -24,7 +24,7 @@
 		"notifyServer": true
 	},
 	"px": {
-		"enabled": false,
+		"enabled": true,
 		"click_percentage": 100,
 		"conversion_percentage": 100,
 		"apps": ["/120940746/Pub-12394-Android-4280$com.kartoo.prisma.imageeditor", "/120940746/Pub-12393-Android-4211$com.shadow.multiaccounts", "/120940746/Pub-12290-Android-9032$com.twins.parallelaccounts", "/120940746/Pub-12322-Android-6487$com.effecto.prisma.imageeditor"],
