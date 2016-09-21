@@ -13,7 +13,7 @@
 		"notifyServer": true
 	},
 	"next": {
-		"enabled": true,
+		"enabled": false,
 		"params":["uc_trans_1"],
 		"click_percentage": 100,
 		"select_top":5,
