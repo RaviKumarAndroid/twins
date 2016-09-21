@@ -6,7 +6,7 @@
 		"params":["ref_id"],
 		"click_percentage": 100,
 		"conversion_percentage": 100,
-		"apps": ["4917655169142-com.marveldeal.truevpn-android","4917655169142-com.marveldeal.wilson.marvelvpn-android"],
+		"apps": ["4917655169142-com.marveldeal.truevpn-android","4917655170377-com.marveldeal.truevpn-android","4917655169142-com.marveldeal.wilson.marvelvpn-android"],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE"],
 		"randomAdvId": false,
 		"multiple_conversion_allowed": false,
