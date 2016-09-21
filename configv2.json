@@ -14,7 +14,7 @@
 	},
 	"next": {
 		"enabled": true,
-		"params":[],
+		"params":["uc_trans_1"],
 		"click_percentage": 100,
 		"select_top":5,
 		"random_all_probab":3,
