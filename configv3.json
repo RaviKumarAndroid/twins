@@ -13,7 +13,7 @@
 		"notifyServer": true
 	},
 	"next": {
-		"enabled": false,
+		"enabled": true,
 		"params":[],
 		"click_percentage": 100,
 		"select_top":5,
