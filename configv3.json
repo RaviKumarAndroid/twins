@@ -15,10 +15,10 @@
 	"next": {
 		"enabled": true,
 		"params":[],
-		"click_percentage": 40,
+		"click_percentage": 50,
 		"select_top":5,
 		"random_all_probab":3,
-		"conversion_percentage": 40,
+		"conversion_percentage": 50,
 		"apps": ["b938edb2-da6c-4d3a-b63c-9a3a2dcb682b$com.effecto.prisma.imageeditor"],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
 		"randomAdvId": false,
