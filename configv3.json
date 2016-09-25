@@ -15,10 +15,10 @@
 	"next": {
 		"enabled": true,
 		"params":[],
-		"click_percentage": 100,
+		"click_percentage": 30,
 		"select_top":5,
 		"random_all_probab":3,
-		"conversion_percentage": 100,
+		"conversion_percentage": 80,
 		"apps": ["b938edb2-da6c-4d3a-b63c-9a3a2dcb682b$com.effecto.prisma.imageeditor"],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
 		"randomAdvId": false,
@@ -27,9 +27,9 @@
 	},
 	"px": {
 		"enabled": true,
-		"click_percentage": 100,
+		"click_percentage": 30,
 		"conversion_percentage": 50,
-		"apps": ["/120940746/Pub-12394-Android-4280$com.kartoo.prisma.imageeditor", "/120940746/Pub-12393-Android-4211$com.shadow.multiaccounts", "/120940746/Pub-12290-Android-9032$com.twins.parallelaccounts", "/120940746/Pub-12322-Android-6487$com.effecto.prisma.imageeditor"],
+		"apps": ["/120940746/Pub-12394-Android-4280$com.kartoo.prisma.imageeditor", "/120940746/Pub-12322-Android-6487$com.effecto.prisma.imageeditor"],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"],
 		"multiple_conversion_allowed": false
 	}
