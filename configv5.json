@@ -1,7 +1,6 @@
 {
 	"time_between_service_start_min": 1800000,
 	"time_between_service_start_max": 3600000,
-	"renew_device_after_days":0,
 	"cross": {
 		"enabled": true,
 		"params":["ref_id"],
@@ -12,6 +11,7 @@
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE"],
 		"randomAdvId": false,
 		"multiple_conversion_allowed": false,
+	        "renew_device_after_days":0,
 		"notifyServer": true
 	},
 	"next": {
@@ -26,6 +26,7 @@
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
 		"randomAdvId": false,
 		"multiple_conversion_allowed": false,
+		"renew_device_after_days":0,
 		"notifyServer": true
 	},
 	"px": {
@@ -34,5 +35,6 @@
 		"conversion_percentage": 50,
 		"apps": ["/120940746/Pub-12394-Android-4280$com.kartoo.prisma.imageeditor", "/120940746/Pub-12322-Android-6487$com.effecto.prisma.imageeditor"],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"],
-		"multiple_conversion_allowed": false
+		"multiple_conversion_allowed": false,
+		"renew_device_after_days":0
 	}
