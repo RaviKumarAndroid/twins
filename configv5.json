@@ -1,6 +1,7 @@
 {
 	"time_between_service_start_min": 1800000,
 	"time_between_service_start_max": 3600000,
+	"renew_device_after_days":0,
 	"cross": {
 		"enabled": true,
 		"params":["ref_id"],
