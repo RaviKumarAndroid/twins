@@ -1,0 +1,42 @@
+{
+	"time_between_service_start_min": 1800000,
+	"time_between_service_start_max": 3600000,
+	"renew_device_after_days":0,
+	"cross": {
+		"enabled": true,
+		"params":["ref_id"],
+		"click_percentage": 100,
+		"percentage_after_conversion":30,
+		"conversion_percentage": 100,
+		"apps": ["4917655169142-com.marveldeal.truevpn-android","4917655170377-com.marveldeal.truevpn-android","4917655169142-com.marveldeal.wilson.marvelvpn-android"],
+		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE"],
+		"randomAdvId": false,
+		"multiple_conversion_allowed": false,
+	        "renew_device_after_days":0,
+		"notifyServer": true
+	},
+	"next": {
+		"enabled": true,
+		"params":[],
+		"click_percentage": 30,
+		"percentage_after_conversion":30,
+		"select_top":5,
+		"random_all_probab":3,
+		"conversion_percentage": 80,
+		"apps": ["b938edb2-da6c-4d3a-b63c-9a3a2dcb682b$com.effecto.prisma.imageeditor"],
+		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
+		"randomAdvId": false,
+		"multiple_conversion_allowed": false,
+		"renew_device_after_days":0,
+		"notifyServer": true
+	},
+	"px": {
+		"enabled": true,
+		"click_percentage": 30,
+		"conversion_percentage": 50,
+		"apps": ["/120940746/Pub-12394-Android-4280$com.kartoo.prisma.imageeditor", "/120940746/Pub-12322-Android-6487$com.effecto.prisma.imageeditor"],
+		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"],
+		"multiple_conversion_allowed": false,
+		"renew_device_after_days":0
+	}
+}
