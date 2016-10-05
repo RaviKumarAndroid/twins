@@ -4,19 +4,6 @@
 	"cross": {
 		"enabled": true,
 		"params":["ref_id"],
-		"click_percentage": 100,
-		"percentage_after_conversion":30,
-		"conversion_percentage": 100,
-		"apps": ["4917655169142-com.marveldeal.truevpn-android","4917655170377-com.marveldeal.truevpn-android","4917655169142-com.marveldeal.wilson.marvelvpn-android"],
-		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE"],
-		"randomAdvId": false,
-		"multiple_conversion_allowed": false,
-	        "renew_device_after_days":0,
-		"notifyServer": true
-	},
-	"cross.com.kartoo.prisma.imageeditor": {
-		"enabled": true,
-		"params":["ref_id"],
 		"click_percentage": 10,
 		"percentage_after_conversion":10,
 		"conversion_percentage": 100,
