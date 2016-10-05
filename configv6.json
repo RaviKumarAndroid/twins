@@ -14,7 +14,7 @@
 	        "renew_device_after_days":0,
 		"notifyServer": true
 	},
-	"com.kartoo.prisma.imageeditor.cross": {
+	"cross.com.kartoo.prisma.imageeditor": {
 		"enabled": true,
 		"params":["ref_id"],
 		"click_percentage": 10,
