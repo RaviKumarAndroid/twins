@@ -3,7 +3,7 @@
 	"time_between_service_start_max": 3600000,
 	"renew_device_after_days":0,
 	"cross": {
-		"enabled": true,
+		"enabled": false,
 		"params":["ref_id"],
 		"click_percentage": 100,
 		"percentage_after_conversion":30,
