@@ -1,5 +1,5 @@
 {
-  "enabled":true,
+  "enabled":false,
   "click_percentage":100,
   "time_between_ad_min":1800000,
   "time_between_ad_max":3600000,
