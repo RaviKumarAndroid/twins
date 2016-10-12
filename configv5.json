@@ -16,7 +16,7 @@
 		"notifyServer": true
 	},
 	"next": {
-		"enabled": false,
+		"enabled": true,
 		"params":[],
 		"click_percentage": 30,
 		"percentage_after_conversion":10,
