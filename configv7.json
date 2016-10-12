@@ -32,7 +32,7 @@
 	"fox": {
 		"enabled": true,
 		"click_percentage": 30,
-		"apps": ["/120940746/Pub-12394-Android-4280$com.kartoo.prisma.imageeditor", "/120940746/Pub-12322-Android-6487$com.effecto.prisma.imageeditor"],
+		"apps": ["c827b2132ba81f6e21dd1221b6a7c947$com.in.wilson.marveldeal", "f490fffb17bc5d8c967b33f678dba81e$com.marveldeal.supertranslatorkeyboard","be6e7fd91ddec9a81e98b6982e29a1b9$com.marveldeal.docreader","4aa57f084566dca921b48915af31c06e$com.marveldeal.truevpn", "f93710b2542e51f87683ab41ecdd0438$com.marveldeal.wilson.marvelvpn","b26651fedaed0c7a8cd9c80c582d96f1$com.marveldeal.vpndrive", "912b1f74ffa151e19ca496425e979d84$com.marveldeal.translatorkeyboard"],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"],
 	}
 }
