@@ -23,7 +23,7 @@
 		"select_top":5,
 		"random_all_probab":3,
 		"conversion_percentage": 20,
-		"apps": ["46bf4c2c-4999-404b-acb7-08f86983db43$com.twins.parallelaccounts"],
+		"apps": ["46bf4c2c-4999-404b-acb7-08f86983db43$com.twins.parallelaccounts", "80839827-914f-4f51-9740-af088a5ab6ac$com.shadow.multiaccounts"],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
 		"randomAdvId": false,
 		"multiple_conversion_allowed": false,
