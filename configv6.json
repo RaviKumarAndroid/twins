@@ -17,7 +17,7 @@
 	"next": {
 		"enabled": true,
 		"params":[],
-		"click_percentage": 10,
+		"click_percentage": 5,
 		"percentage_after_conversion":10,
 		"select_top":5,
 		"random_all_probab":3,
