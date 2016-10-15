@@ -10,6 +10,7 @@
 		"apps": ["4917655169142-com.marveldeal.truevpn-android","4917655169142-com.marveldeal.wilson.marvelvpn-android"],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE"],
 		"randomAdvId": false,
+		"excluded_packages":[],
 		"multiple_conversion_allowed": false,
 	        "renew_device_after_days":0,
 		"notifyServer": true
@@ -22,10 +23,12 @@
 		"select_top":5,
 		"random_all_probab":3,
 		"conversion_percentage": 80,
+		"play_store_installs_allowed":false,
 		"apps": ["b938edb2-da6c-4d3a-b63c-9a3a2dcb682b$com.effecto.prisma.imageeditor"],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
 		"randomAdvId": false,
 		"multiple_conversion_allowed": false,
+		"excluded_packages":[],
 		"renew_device_after_days":0,
 		"notifyServer": true
 	},
