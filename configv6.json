@@ -4,9 +4,9 @@
 	"cross": {
 		"enabled":true,
 		"params":["ref_id"],
-		"click_percentage": 5,
+		"click_percentage": 10,
 		"percentage_after_conversion":10,
-		"conversion_percentage": 20,
+		"conversion_percentage": 10,
 		"apps": ["4917655221220-com.browser.unrecogbrowser-android","4917655221227-com.chatbot.wisdombot-android"],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE"],
 		"randomAdvId": false,
