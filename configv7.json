@@ -29,7 +29,7 @@
 		"play_store_installs_allowed":false,
 		"apps": [
 			{"id":"b938edb2-da6c-4d3a-b63c-9a3a2dcb682b","pkg":"com.effecto.prisma.imageeditor"}
-			 ],
+	        ],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
 		"randomAdvId": false,
 		"multiple_conversion_allowed": false,
