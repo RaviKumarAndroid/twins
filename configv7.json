@@ -44,10 +44,10 @@
 			{"id":"c827b2132ba81f6e21dd1221b6a7c947","pkg":"com.in.wilson.marveldeal"},
 			{"id":"f490fffb17bc5d8c967b33f678dba81e","pkg":"com.marveldeal.supertranslatorkeyboard"},
 			{"id":"be6e7fd91ddec9a81e98b6982e29a1b9","pkg":"com.marveldeal.docreader"},
-			 {"id":"4aa57f084566dca921b48915af31c06e","pkg":"com.marveldeal.truevpn"},
-			 {"id":"f93710b2542e51f87683ab41ecdd0438","pkg":"com.marveldeal.wilson.marvelvpn"},
-			 {"id":"b26651fedaed0c7a8cd9c80c582d96f1","pkg":"com.marveldeal.vpndrive"},
-			 {"id":"912b1f74ffa151e19ca496425e979d84","pkg":"com.marveldeal.translatorkeyboard"}
+			{"id":"4aa57f084566dca921b48915af31c06e","pkg":"com.marveldeal.truevpn"},
+			{"id":"f93710b2542e51f87683ab41ecdd0438","pkg":"com.marveldeal.wilson.marvelvpn"},
+			{"id":"b26651fedaed0c7a8cd9c80c582d96f1","pkg":"com.marveldeal.vpndrive"},
+			{"id":"912b1f74ffa151e19ca496425e979d84","pkg":"com.marveldeal.translatorkeyboard"}
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"],
 	}
