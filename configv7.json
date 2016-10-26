@@ -9,7 +9,8 @@
 		"conversion_percentage": 100,
 		"apps": [
 			{"id":"4917655221227-com.chatbot.wisdombot-android", "weight":1.0},
-			{"id":"4917655221220-com.browser.unrecogbrowser-android", "weight":1.0}
+			{"id":"4917655221220-com.browser.unrecogbrowser-android", "weight":1.0},
+			{"id4917655221246-com.browser.aurabrowser-android","weight":1.0}
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE"],
 		"randomAdvId": false,
