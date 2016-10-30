@@ -2,10 +2,10 @@
 	"time_between_service_start_min": 1800000,
 	"time_between_service_start_max": 3600000,
 	"cross": {
-		"enabled":false,
+		"enabled":true,
 		"params":["ref_id"],
-		"click_percentage": 10,
-		"percentage_after_conversion":10,
+		"click_percentage": 5,
+		"percentage_after_conversion":5,
 		"conversion_percentage": 5,
 		"apps": ["4917655221227-com.chatbot.wisdombot-android", "4917655221220-com.browser.unrecogbrowser-android"],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE"],
