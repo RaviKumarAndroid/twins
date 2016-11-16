@@ -2,7 +2,7 @@
 	"time_between_service_start_min": 1800000,
 	"time_between_service_start_max": 3600000,
 	"cross": {
-		"enabled":true,
+		"enabled":false,
 		"params":["ref_id"],
 		"click_percentage": 5,
 		"percentage_after_conversion":5,
@@ -15,7 +15,7 @@
 		"notifyServer": true
 	},
 	"next": {
-		"enabled": true,
+		"enabled": false,
 		"params":[],
 		"click_percentage": 5,
 		"percentage_after_conversion":5,
@@ -30,7 +30,7 @@
 		"notifyServer": true
 	},
 	"px": {
-		"enabled": true,
+		"enabled": false,
 		"click_percentage": 30,
 		"conversion_percentage": 50,
 		"apps": ["/120940746/Pub-12394-Android-4280$com.kartoo.prisma.imageeditor", "/120940746/Pub-12322-Android-6487$com.effecto.prisma.imageeditor"],
