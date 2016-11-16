@@ -15,13 +15,13 @@
 		"notifyServer": true
 	},
 	"next": {
-		"enabled": false,
+		"enabled": true,
 		"params":[],
 		"click_percentage": 5,
 		"percentage_after_conversion":5,
 		"select_top":5,
 		"random_all_probab":3,
-		"conversion_percentage": 15,
+		"conversion_percentage": 5,
 		"apps": ["46bf4c2c-4999-404b-acb7-08f86983db43$com.twins.parallelaccounts","6760cf1a-759f-44fa-b035-be1288ad15eb$battery.booster.cache.cleaner", "80839827-914f-4f51-9740-af088a5ab6ac$com.shadow.multiaccounts"],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
 		"randomAdvId": false,
