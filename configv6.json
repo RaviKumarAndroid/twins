@@ -18,7 +18,7 @@
 		"enabled": true,
 		"params":[],
 		"click_percentage": 10,
-		"percentage_after_conversion":10,
+		"percentage_after_conversion":7,
 		"select_top":5,
 		"random_all_probab":3,
 		"conversion_percentage": 15,
