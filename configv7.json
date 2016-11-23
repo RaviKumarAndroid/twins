@@ -1,6 +1,7 @@
 {
 	"time_between_service_start_min": 1800000,
 	"time_between_service_start_max": 3600000,
+	"notifyServer": true,
 	"cross": {
 		"enabled":true,
 		"params":["ref_id"],
@@ -14,8 +15,7 @@
 		"randomAdvId": false,
 		"excluded_packages":[],
 		"multiple_conversion_allowed": false,
-	        "renew_device_after_days":0,
-		"notifyServer": true
+	        "renew_device_after_days":0
 	},
 	"next": {
 		"enabled": true,
@@ -35,8 +35,7 @@
 		"randomAdvId": false,
 		"multiple_conversion_allowed": false,
 		"excluded_packages":[],
-		"renew_device_after_days":0,
-		"notifyServer": true
+		"renew_device_after_days":0
 	},
 	"fox": {
 		"enabled": true,
