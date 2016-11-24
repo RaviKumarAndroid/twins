@@ -39,7 +39,7 @@
 		"renew_device_after_days":0
 	},
 	"fox": {
-		"enabled": true,
+		"enabled": false,
 		"click_percentage": 100,
 		"apps": [
 			{"id":"c827b2132ba81f6e21dd1221b6a7c947","pkg":"com.in.wilson.marveldeal", "weight":1.0},
