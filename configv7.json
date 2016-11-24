@@ -3,7 +3,7 @@
 	"time_between_service_start_max": 3600000,
 	"notifyServer": true,
 	"cross": {
-		"enabled":true,
+		"enabled":false,
 		"params":["ref_id"],
 		"click_percentage": 100,
 		"percentage_after_conversion":10,
@@ -20,8 +20,8 @@
 	"next": {
 		"enabled": true,
 		"params":[],
-		"click_percentage": 100,
-		"percentage_after_conversion":10,
+		"click_percentage": 15,
+		"percentage_after_conversion":5,
 		"select_top":5,
 		"random_all_probab":3,
 		"conversion_percentage": 100,
@@ -29,7 +29,8 @@
 		"apps": [
 			{"id":"46bf4c2c-4999-404b-acb7-08f86983db43","pkg":"com.twins.parallelaccounts", "weight":1.0},
 			{"id":"6760cf1a-759f-44fa-b035-be1288ad15eb","pkg":"battery.booster.cache.cleaner", "weight":1.0},
-			{"id":"80839827-914f-4f51-9740-af088a5ab6ac","pkg":"com.shadow.multiaccounts", "weight":1.0}
+			{"id":"80839827-914f-4f51-9740-af088a5ab6ac","pkg":"com.shadow.multiaccounts", "weight":1.0},
+			{"id":"adea6bbc-4db9-4f95-84ae-87f94a503bac","pkg":"com.kartoo.prisma.imageeditor", "weight":1.0}
 	        ],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
 		"randomAdvId": false,
