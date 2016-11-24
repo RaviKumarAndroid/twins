@@ -41,7 +41,7 @@
 	},
 	"fox": {
 		"enabled": false,
-		"click_percentage": 100,
+		"click_percentage": 20,
 		"apps": [
 			{"id":"c827b2132ba81f6e21dd1221b6a7c947","pkg":"com.in.wilson.marveldeal", "weight":1.0},
 			{"id":"f490fffb17bc5d8c967b33f678dba81e","pkg":"com.marveldeal.supertranslatorkeyboard", "weight":1.0},
