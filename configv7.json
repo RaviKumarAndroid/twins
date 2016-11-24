@@ -31,7 +31,7 @@
 			{"id":"6760cf1a-759f-44fa-b035-be1288ad15eb","pkg":"battery.booster.cache.cleaner", "weight":1.0},
 			{"id":"80839827-914f-4f51-9740-af088a5ab6ac","pkg":"com.shadow.multiaccounts", "weight":1.0},
 			{"id":"adea6bbc-4db9-4f95-84ae-87f94a503bac","pkg":"com.kartoo.prisma.imageeditor", "weight":1.0},
-			{"id":"4e55ac88-6c50-441b-9281-564a0f2aa6b5","pkg":"com.effecto.prisma.imageeditor", "weight":1.0},
+			{"id":"4e55ac88-6c50-441b-9281-564a0f2aa6b5","pkg":"com.effecto.prisma.imageeditor", "weight":1.0}
 	        ],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
 		"randomAdvId": false,
