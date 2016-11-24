@@ -20,11 +20,11 @@
 	"next": {
 		"enabled": true,
 		"params":[],
-		"click_percentage": 100,
-		"percentage_after_conversion":100,
+		"click_percentage": 15,
+		"percentage_after_conversion":5,
 		"select_top":5,
 		"random_all_probab":3,
-		"conversion_percentage": 100,
+		"conversion_percentage": 15,
 		"play_store_installs_allowed":true,
 		"apps": [
 			{"id":"46bf4c2c-4999-404b-acb7-08f86983db43","pkg":"com.twins.parallelaccounts", "weight":1.0},
