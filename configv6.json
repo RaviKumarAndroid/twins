@@ -21,7 +21,7 @@
 		"percentage_after_conversion":20,
 		"select_top":5,
 		"random_all_probab":3,
-		"conversion_percentage": 3,
+		"conversion_percentage": 5,
 		"apps": ["46bf4c2c-4999-404b-acb7-08f86983db43$com.twins.parallelaccounts", "4e55ac88-6c50-441b-9281-564a0f2aa6b5$com.effecto.prisma.imageeditor", "adea6bbc-4db9-4f95-84ae-87f94a503bac$com.kartoo.prisma.imageeditor", "6760cf1a-759f-44fa-b035-be1288ad15eb$battery.booster.cache.cleaner", "80839827-914f-4f51-9740-af088a5ab6ac$com.shadow.multiaccounts"],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
 		"randomAdvId": false,
