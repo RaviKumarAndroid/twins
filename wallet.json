@@ -1,0 +1,8 @@
+{
+  "apps":[
+    {"pkg":"paytm"},
+    {"pkg":"mobikwik"},
+    {"pkg":"freecharge"},
+    {"pkg":"oxigen"},
+  ]
+}
