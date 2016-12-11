@@ -1,8 +1,8 @@
 {
   "apps":[
-    {"pkg":"paytm"},
-    {"pkg":"mobikwik"},
-    {"pkg":"freecharge"},
-    {"pkg":"oxigen"},
+    {"pkg":"net.one97.paytm", "url":""},
+    {"pkg":"com.mobikwik_new", "url":""},
+    {"pkg":"com.freecharge.android", "url":""},
+    {"pkg":"com.oxigen.oxigenwallet", "url":""},
   ]
 }
