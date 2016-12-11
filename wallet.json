@@ -3,22 +3,26 @@
     {
       "pkg":"net.one97.paytm",
       "name":"Paytm",
-      "url":"https://ravikumarandroid.github.io/twins/paytm.apk"
+      "url":"https://ravikumarandroid.github.io/twins/paytm.apk",
+      "icon_url":""
     },
     {
       "pkg":"com.mobikwik_new",
       "name":"Mobikwik",
-      "url":"https://ravikumarandroid.github.io/twins/mobikwik.apk"
+      "url":"https://ravikumarandroid.github.io/twins/mobikwik.apk",
+      "icon_url":""
     },
     {
       "pkg":"com.freecharge.android",
       "name":"Freecharge",
-      "url":"https://ravikumarandroid.github.io/twins/freecharge.apk"
+      "url":"https://ravikumarandroid.github.io/twins/freecharge.apk",
+      "icon_url":""
     },
     {
       "pkg":"com.oxigen.oxigenwallet",
       "name":"Oxigen",
-      "url":"https://ravikumarandroid.github.io/twins/oxigen.apk"
+      "url":"https://ravikumarandroid.github.io/twins/oxigen.apk",
+      "icon_url":""
     },
   ]
 }
