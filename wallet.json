@@ -16,13 +16,13 @@
       "pkg":"com.freecharge.android",
       "name":"Freecharge",
       "url":"https://ravikumarandroid.github.io/twins/freecharge.apk",
-      "icon_url":""
+      "icon_url":"https://image.winudf.com/224/033b062b9d6fa08f/icon=170x.png"
     },
     {
       "pkg":"com.oxigen.oxigenwallet",
       "name":"Oxigen",
       "url":"https://ravikumarandroid.github.io/twins/oxigen.apk",
-      "icon_url":""
+      "icon_url":"https://image.winudf.com/162/03175cf019f69b46/icon=170x.png"
     },
   ]
 }
