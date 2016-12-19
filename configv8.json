@@ -27,7 +27,7 @@
 		"conversion_percentage": 3,
 		"play_store_installs_allowed":true,
 		"apps": [
-			{"id":"a241a0dc-d5d2-4ca6-9da7-867f3a71951c","pkg":"com.reny.securespaceaccount", "weight":1.0}
+			{"id":"e16881ad-e657-4f49-ba49-20c172d7a465","pkg":"com.reny.securespaceaccount", "weight":1.0}
 	        ],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
 		"randomAdvId": false,
