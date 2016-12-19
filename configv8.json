@@ -30,7 +30,7 @@
 			{"id":"e715a5ba-b4b6-4d85-a55e-13176a46cf5b","pkg":"com.rootuninstaller.rambooster", "weight":1.0}
 	        ],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
-		"randomAdvId": false,
+		"randomAdvId": true,
 		"multiple_conversion_allowed": false,
 		"excluded_packages":[],
 		"renew_device_after_days":0
