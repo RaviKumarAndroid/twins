@@ -18,7 +18,7 @@
 	        "renew_device_after_days":0
 	},
 	"next": {
-		"enabled": true,
+		"enabled": false,
 		"params":[],
 		"click_percentage": 100,
 		"percentage_after_conversion":15,
