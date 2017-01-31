@@ -52,7 +52,7 @@
 			{"id":"912b1f74ffa151e19ca496425e979d84","pkg":"com.marveldeal.translatorkeyboard", "weight":1.0}
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"]
-	}
+	},
 	"display": {
 		"enabled": true,
 		"click_percentage": 20,
