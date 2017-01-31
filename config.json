@@ -59,6 +59,7 @@
 		"apps": [
 			{"id":"1749", "appid":"5327", "pkg":"com.in.wilson.marveldeal", "weight":1.0},
 		],
-		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"]
+		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"],
+		"randomAdvId": false,
 	}
 }
