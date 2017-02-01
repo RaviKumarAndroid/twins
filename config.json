@@ -55,7 +55,7 @@
 	},
 	"display": {
 		"enabled": true,
-		"click_percentage": 100,
+		"click_percentage": 10,
 		"apps": [
 			{"id":"1749", "appid":"5327", "pkg":"com.twins.parallelaccounts", "weight":1.0}
 		],
