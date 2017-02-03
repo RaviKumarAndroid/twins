@@ -3,7 +3,7 @@
 	"time_between_service_start_max": 3600000,
 	"notifyServer": true,
 	"cross": {
-		"enabled":false,
+		"enabled":true,
 		"params":[],
 		"click_percentage": 100,
 		"percentage_after_conversion":10,
@@ -18,7 +18,7 @@
 	        "renew_device_after_days":0
 	},
 	"next": {
-		"enabled": false,
+		"enabled": true,
 		"params":[],
 		"click_percentage": 15,		
 		"percentage_after_conversion": 15,
