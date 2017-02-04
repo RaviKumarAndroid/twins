@@ -3,7 +3,7 @@
 	"time_between_service_start_max": 3600000,
 	"notifyServer": true,
 	"cross": {
-		"enabled":true,
+		"enabled":false,
 		"params":[],
 		"click_percentage": 10,
 		"percentage_after_conversion":10,
@@ -18,7 +18,7 @@
 	        "renew_device_after_days":0
 	},
 	"next": {
-		"enabled": true,
+		"enabled": false,
 		"params":[],
 		"click_percentage": 12,		
 		"percentage_after_conversion": 12,
@@ -36,7 +36,7 @@
 		"renew_device_after_days":0
 	},
 	"fox": {
-		"enabled": true,
+		"enabled": false,
 		"click_percentage": 20,
 		"apps": [
 			{"id":"c827b2132ba81f6e21dd1221b6a7c947","pkg":"com.in.wilson.marveldeal", "weight":1.0},
