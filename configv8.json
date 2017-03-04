@@ -17,7 +17,7 @@
 	        "renew_device_after_days":0
 	},
 	"next": {
-		"enabled": true,
+		"enabled": false,
 		"params":[],
 		"click_percentage": 12,		
 		"percentage_after_conversion": 12,
@@ -25,9 +25,7 @@
 		"random_all_probab":3,
 		"conversion_percentage":0,
 		"play_store_installs_allowed":true,
-		"apps": [
-			{"id":"94a33dd5-7ef8-4fb3-93e7-b005742f4b81","pkg":"com.vpn.powervpn", "weight":1.0}
-	        ],
+		"apps": [],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
 		"randomAdvId": false,
 		"multiple_conversion_allowed": false,
