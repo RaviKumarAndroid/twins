@@ -23,7 +23,7 @@
 		"percentage_after_conversion": 12,
 		"select_top":5,
 		"random_all_probab":3,
-		"conversion_percentage":3,
+		"conversion_percentage":2,
 		"play_store_installs_allowed":true,
 		"apps": [
 			{"id":"7bd87d05-562a-4d0a-9e49-49edb0cbeaf4","pkg":"com.effecto.prisma.imageeditor.new", "weight":1.0},
