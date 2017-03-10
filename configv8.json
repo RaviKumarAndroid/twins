@@ -50,7 +50,6 @@
 	},
 	"display": {
 		"enabled":true,
-		"event_params":[],
 		"params":[],
 		"click_percentage": 20,
 		"percentage_after_conversion":10,
