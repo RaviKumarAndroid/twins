@@ -60,6 +60,7 @@
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"],
 		"randomAdvId": true,
+		"click_regex":"^(?i)(TRKM).*$",
 		"excluded_packages":[],
 		"multiple_conversion_allowed": true,
 	        "renew_device_after_days":0
