@@ -26,7 +26,6 @@
 		"conversion_percentage":2,
 		"play_store_installs_allowed":true,
 		"apps": [
-			{"id":"7bd87d05-562a-4d0a-9e49-49edb0cbeaf4","pkg":"com.effecto.prisma.imageeditor.new", "weight":1.0},
 			{"id":"b239fdd2-75e4-46ce-a1f3-a37b61da597c","pkg":"com.applifier.marvelvpn", "weight":1.0}
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
