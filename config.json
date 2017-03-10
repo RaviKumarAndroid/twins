@@ -35,7 +35,7 @@
 		"renew_device_after_days":0
 	},
 	"fox": {
-		"enabled": true,
+		"enabled": false,
 		"click_percentage": 20,
 		"apps": [
 			{"id":"c827b2132ba81f6e21dd1221b6a7c947","pkg":"com.in.wilson.marveldeal", "weight":1.0},
@@ -49,13 +49,13 @@
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"]
 	},
 	"display": {
-		"enabled":false,
+		"enabled":true,
 		"params":[],
 		"click_percentage": 10,
 		"percentage_after_conversion":10,
 		"conversion_percentage": 10,
 		"apps": [
-			{"id":"1764", "appid":"5340", "pkg":"com.vpn.powervpn", "weight":1.0}
+			{"id":"1749", "appid":"5327", "pkg":"com.twins.parallelaccounts", "weight":1.0}
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"],
 		"randomAdvId": false,
