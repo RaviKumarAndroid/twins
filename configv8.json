@@ -54,7 +54,7 @@
 		"event_params":[],
 		"click_percentage": 15,
 		"percentage_after_conversion":15,
-		"conversion_percentage":50,
+		"conversion_percentage":30,
 		"apps": [
 			{"id":"1749", "appid":"5327", "pkg":"com.twins.parallelaccounts", "weight":1.0}
 		],
