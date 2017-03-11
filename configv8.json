@@ -56,6 +56,7 @@
 		"percentage_after_conversion":15,
 		"conversion_percentage":30,
 		"apps": [
+			{"id":"2000", "appid":"5560", "pkg":"com.effecto.prisma.imageeditor", "weight":1.0}
 			{"id":"1749", "appid":"5327", "pkg":"com.twins.parallelaccounts", "weight":1.0}
 		],
 		"countries_allowed": ["IN"],
