@@ -53,11 +53,11 @@
 		"params":[],
 		"click_percentage": 15,
 		"percentage_after_conversion":15,
-		"conversion_percentage": 5,
+		"conversion_percentage":50,
 		"apps": [
 			{"id":"1749", "appid":"5327", "pkg":"com.twins.parallelaccounts", "weight":1.0}
 		],
-		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"],
+		"countries_allowed": ["IN"],
 		"randomAdvId": true,
 		"click_regex":"^(?i)(TRK).*$",
 		"excluded_packages":[],
