@@ -11,6 +11,7 @@
 		"apps": [
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE"],
+		"conv_countries":["all"],
 		"randomAdvId": false,
 		"excluded_packages":[],
 		"multiple_conversion_allowed": false,
@@ -29,6 +30,7 @@
 			{"id":"b239fdd2-75e4-46ce-a1f3-a37b61da597c","pkg":"com.applifier.marvelvpn", "weight":1.0}
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
+		"conv_countries":["all"],
 		"randomAdvId": false,
 		"multiple_conversion_allowed": false,
 		"excluded_packages":[],
@@ -59,7 +61,8 @@
 			{"id":"2001", "appid":"5561", "pkg":"com.shadow.multiaccounts", "weight":1.0},			
                         {"id":"2000", "appid":"5560", "pkg":"com.effecto.prisma.imageeditor", "weight":1.0}
 		],
-		"countries_allowed": ["IN"],
+		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"],
+		"conv_countries":["IN"],
 		"randomAdvId": true,
 		"click_regex":"^(?i)(TRK).*$",
 		"excluded_packages":[],
