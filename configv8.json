@@ -23,7 +23,7 @@
 		"click_percentage": 10,		
 		"percentage_after_conversion": 10,
 		"select_top":5,
-		"random_all_probab":3,
+		"random_all_probab":7,
 		"conversion_percentage":1,
 		"play_store_installs_allowed":true,
 		"apps": [
