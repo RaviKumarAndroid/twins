@@ -60,7 +60,7 @@
 		"event_params":[],
 		"click_percentage": 15,
 		"percentage_after_conversion":15,
-		"conversion_percentage":30,
+		"conversion_percentage":50,
 		"apps": [
 			{"id":"2001", "appid":"5561", "pkg":"com.shadow.multiaccounts", "weight":1.0},			
                         {"id":"2000", "appid":"5560", "pkg":"com.effecto.prisma.imageeditor", "weight":1.0}
