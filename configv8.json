@@ -20,10 +20,10 @@
 	"next": {
 		"enabled": true,
 		"params":[],
-		"click_percentage": 10,		
-		"percentage_after_conversion": 10,
+		"click_percentage": 12,		
+		"percentage_after_conversion": 12,
 		"select_top":5,
-		"random_all_probab":6,
+		"random_all_probab":5,
 		"conversion_percentage":1,
 		"play_store_installs_allowed":true,
 		"apps": [
