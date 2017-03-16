@@ -11,9 +11,9 @@
 		"apps": [
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE"],
-		"conv_countries":["all"],
-		"conv_country_conversion_percentage":50,
-		"conv_country_click_percentage":50,
+		"special_countries":["all"],
+		"special_conversion_percentage":50,
+		"special_click_percentage":50,
 		"randomAdvId": false,
 		"excluded_packages":[],
 		"multiple_conversion_allowed": false,
@@ -36,11 +36,11 @@
 			{"id":"0ecd3b6d-4ed8-4393-8fdb-6f6e388254ef","pkg":"com.applifier.marvelvpn", "weight":1.0}
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
-		"conv_countries":["all"],
+		"special_countries":["all"],
 		"randomAdvId": false,
 		"multiple_conversion_allowed": false,
-		"conv_country_conversion_percentage":50,
-		"conv_country_click_percentage":50,
+		"special_conversion_percentage":50,
+		"special_click_percentage":50,
 		"excluded_packages":[],
 		"renew_device_after_days":0
 	},
@@ -56,6 +56,8 @@
 			{"id":"b26651fedaed0c7a8cd9c80c582d96f1","pkg":"com.marveldeal.vpndrive", "weight":1.0},
 			{"id":"912b1f74ffa151e19ca496425e979d84","pkg":"com.marveldeal.translatorkeyboard", "weight":1.0}
 		],
+		"special_countries":["IN"],
+		"special_click_percentage":50,
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"]
 	},
 	"display": {
@@ -70,9 +72,9 @@
                         {"id":"2000", "appid":"5560", "pkg":"com.effecto.prisma.imageeditor", "weight":1.0}
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"],
-		"conv_countries":["IN"],
-		"conv_country_conversion_percentage":50,
-		"conv_country_click_percentage":50,
+		"special_countries":["IN"],
+		"special_conversion_percentage":50,
+		"special_click_percentage":50,
 		"randomAdvId": true,
 		"click_regex":"^(?i)(TRK).*$",
 		"excluded_packages":[],
