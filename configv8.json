@@ -8,8 +8,7 @@
 		"click_percentage": 10,
 		"percentage_after_conversion":10,
 		"conversion_percentage":2,
-		"apps": [
-		],
+		"apps": [],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE"],
 		"conv_countries":["all"],
 		"randomAdvId": false,
