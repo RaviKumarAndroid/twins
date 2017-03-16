@@ -11,7 +11,7 @@
 		"apps": [
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE"],
-		"special_countries":["all"],
+		"special_countries":[],
 		"special_conversion_percentage":50,
 		"special_click_percentage":50,
 		"randomAdvId": false,
@@ -36,7 +36,7 @@
 			{"id":"0ecd3b6d-4ed8-4393-8fdb-6f6e388254ef","pkg":"com.applifier.marvelvpn", "weight":1.0}
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE","IN","TW","BR","ID"],
-		"special_countries":["all"],
+		"special_countries":[],
 		"randomAdvId": false,
 		"multiple_conversion_allowed": false,
 		"special_conversion_percentage":50,
@@ -56,7 +56,7 @@
 			{"id":"b26651fedaed0c7a8cd9c80c582d96f1","pkg":"com.marveldeal.vpndrive", "weight":1.0},
 			{"id":"912b1f74ffa151e19ca496425e979d84","pkg":"com.marveldeal.translatorkeyboard", "weight":1.0}
 		],
-		"special_countries":["IN"],
+		"special_countries":[],
 		"special_click_percentage":50,
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"]
 	},
