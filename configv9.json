@@ -61,7 +61,7 @@
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"]
 	},
 	"display": {
-		"enabled":true,
+		"enabled":false,
 		"params":[],
 		"event_params":[],
 		"click_percentage": 15,
