@@ -4,7 +4,7 @@
 	"askServer":true,
 	"notifyServer": true,
 	"cross": {
-		"enabled":false,
+		"enabled":true,
 		"params":[],
 		"click_percentage": 10,
 		"percentage_after_conversion":10,
