@@ -3,7 +3,7 @@
 	"time_between_service_start_max": 3600000,
 	"notifyServer": true,
 	"cross": {
-		"enabled":false,
+		"enabled":true,
 		"params":[],
 		"click_percentage": 10,
 		"percentage_after_conversion":10,
