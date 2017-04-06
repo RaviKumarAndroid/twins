@@ -60,8 +60,7 @@
 		"percentage_after_conversion":15,
 		"conversion_percentage":0,
 		"apps": [
-			{"id":"2001", "appid":"5561", "pkg":"com.shadow.multiaccounts", "weight":1.0},			
-                        {"id":"2000", "appid":"5560", "pkg":"com.effecto.prisma.imageeditor", "weight":1.0}
+			{"id":"1764", "appid":"5340", "pkg":"com.vpn.powervpn", "weight":1.0}
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"],
 		"conv_countries":["IN"],
