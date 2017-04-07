@@ -72,7 +72,7 @@
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"],
 		"special_countries":["IN"],
 		"special_conversion_percentage":0,
-		"special_click_percentage":20,
+		"special_click_percentage":40,
 		"randomAdvId": true,
 		"click_regex":"^(?i)(TRK).*$",
 		"excluded_packages":[],
