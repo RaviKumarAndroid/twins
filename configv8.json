@@ -60,7 +60,7 @@
 		"percentage_after_conversion":10,
 		"conversion_percentage":0,
 		"apps": [
-			{"id":"1764", "appid":"5340", "pkg":"com.vpn.powervpn", "weight":1.0}
+			{"id":"2099", "appid":"5649", "pkg":"com.applifier.marvelvpn", "weight":1.0}
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"],
 		"conv_countries":["IN"],
