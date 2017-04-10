@@ -65,7 +65,7 @@
 		"event_params":[],
 		"click_percentage": 13,
 		"percentage_after_conversion":13,
-		"conversion_percentage":0,
+		"conversion_percentage":1,
 		"apps": [
 			{"id":"2099", "appid":"5649", "pkg":"com.applifier.marvelvpn", "weight":1.0}
 		],
