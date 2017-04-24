@@ -60,14 +60,13 @@
 		"countries_allowed": ["all"]
 	},
 	"display": {
-		"enabled":true,
+		"enabled":false,
 		"params":[],
 		"event_params":[],
 		"click_percentage": 13,
 		"percentage_after_conversion":13,
 		"conversion_percentage":1,
 		"apps": [
-			{"id":"2099", "appid":"5649", "pkg":"com.applifier.marvelvpn", "weight":1.0}
 		],
 		"countries_allowed": ["US", "UK", "GB", "AU", "CA", "JP","FR","DE","IN", "TW","BR","ID"],
 		"special_countries":["IN"],
