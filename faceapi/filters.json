@@ -4,49 +4,49 @@
     {
       "id":"smile_2",
       "title":"Smile 2",
-      "icon":"https://static.faceapp.io/static/imgs/styles/hot.png",
+      "icon":"https://ravikumarandroid.github.io/twins/faceapi/images/smile_2.jpg",
       "enabled":true
     },
     {
       "id":"smile",
       "title":"Smile",
-      "icon":"https://static.faceapp.io/static/imgs/styles/hot.png",
+      "icon":"https://ravikumarandroid.github.io/twins/faceapi/images/smile.jpg",
       "enabled":true
     }, 
     {
       "id":"hot",
       "title":"Spark",
-      "icon":"https://static.faceapp.io/static/imgs/styles/hot.png",
+      "icon":"https://ravikumarandroid.github.io/twins/faceapi/images/groom.jpg",
       "enabled":true
     },
     {
       "id":"old",
       "title":"Old",
-      "icon":"https://static.faceapp.io/static/imgs/styles/hot.png",
+      "icon":"https://ravikumarandroid.github.io/twins/faceapi/images/old.jpg",
       "enabled":true
     },
     {
       "id":"young",
       "title":"Young",
-      "icon":"https://static.faceapp.io/static/imgs/styles/hot.png",
+      "icon":"https://ravikumarandroid.github.io/twins/faceapi/images/young.jpg",
       "enabled":true
     },
     {
       "id":"female_2",
       "title":"Female 2",
-      "icon":"https://static.faceapp.io/static/imgs/styles/hot.png",
+      "icon":"https://ravikumarandroid.github.io/twins/faceapi/images/female_2.jpg",
       "enabled":true
     },
     {
       "id":"female",
       "title":"Female",
-      "icon":"https://static.faceapp.io/static/imgs/styles/hot.png",
+      "icon":"https://ravikumarandroid.github.io/twins/faceapi/images/female.jpg",
       "enabled":true
     },
     {
       "id":"male",
       "title":"Male",
-      "icon":"https://static.faceapp.io/static/imgs/styles/hot.png",
+      "icon":"https://ravikumarandroid.github.io/twins/faceapi/images/male.jpg",
       "enabled":true
     }
   ]
