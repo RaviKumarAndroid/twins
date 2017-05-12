@@ -2,12 +2,6 @@
   "enabled":true,
   "filters":[
     {
-      "id":"no-filter",
-      "title":"Original",
-      "icon":"https://ravikumarandroid.github.io/twins/faceapi/images/smile_2.jpg",
-      "enabled":true
-    },
-    {
       "id":"smile_2",
       "title":"Smile 2",
       "icon":"https://ravikumarandroid.github.io/twins/faceapi/images/smile_2.jpg",
