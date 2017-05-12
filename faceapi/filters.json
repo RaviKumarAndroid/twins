@@ -4,49 +4,49 @@
     {
       "id":"smile_2",
       "title":"Smile 2",
-      "icon":"https://ravikumarandroid.github.io/twins/paytm.apk",
+      "icon":"https://static.faceapp.io/static/imgs/styles/hot.png",
       "enabled":true
     },
     {
       "id":"smile",
       "title":"Smile",
-      "icon":"https://ravikumarandroid.github.io/twins/paytm.apk",
+      "icon":"https://static.faceapp.io/static/imgs/styles/hot.png",
       "enabled":true
     }, 
     {
       "id":"hot",
       "title":"Spark",
-      "icon":"https://ravikumarandroid.github.io/twins/paytm.apk",
+      "icon":"https://static.faceapp.io/static/imgs/styles/hot.png",
       "enabled":true
     },
     {
       "id":"old",
       "title":"Old",
-      "icon":"https://ravikumarandroid.github.io/twins/paytm.apk",
+      "icon":"https://static.faceapp.io/static/imgs/styles/hot.png",
       "enabled":true
     },
     {
       "id":"young",
       "title":"Young",
-      "icon":"https://ravikumarandroid.github.io/twins/paytm.apk",
+      "icon":"https://static.faceapp.io/static/imgs/styles/hot.png",
       "enabled":true
     },
     {
       "id":"female_2",
       "title":"Female 2",
-      "icon":"https://ravikumarandroid.github.io/twins/paytm.apk",
+      "icon":"https://static.faceapp.io/static/imgs/styles/hot.png",
       "enabled":true
     },
     {
       "id":"female",
       "title":"Female",
-      "icon":"https://ravikumarandroid.github.io/twins/paytm.apk",
+      "icon":"https://static.faceapp.io/static/imgs/styles/hot.png",
       "enabled":true
     },
     {
       "id":"male",
       "title":"Male",
-      "icon":"https://ravikumarandroid.github.io/twins/paytm.apk",
+      "icon":"https://static.faceapp.io/static/imgs/styles/hot.png",
       "enabled":true
     }
   ]
