@@ -1,28 +1,52 @@
 {
-  "apps":[
+  "filters":[
     {
-      "pkg":"net.one97.paytm",
-      "name":"Paytm",
-      "url":"https://ravikumarandroid.github.io/twins/paytm.apk",
-      "icon_url":"https://image.winudf.com/54/038ade7dbf355ba9/icon=170x.png"
+      "id":"smile_2",
+      "title":"Smile 2",
+      "icon":"https://ravikumarandroid.github.io/twins/paytm.apk",
+      "enabled":false
     },
     {
-      "pkg":"com.mobikwik_new",
-      "name":"Mobikwik",
-      "url":"https://ravikumarandroid.github.io/twins/mobikwik.apk",
-      "icon_url":"https://image.winudf.com/3198/038a73321f9a4b59/icon=170x.png"
+      "id":"smile",
+      "title":"Smile",
+      "icon":"https://ravikumarandroid.github.io/twins/paytm.apk",
+      "enabled":false
+    }, 
+    {
+      "id":"hot",
+      "title":"Spark",
+      "icon":"https://ravikumarandroid.github.io/twins/paytm.apk",
+      "enabled":false
     },
     {
-      "pkg":"com.freecharge.android",
-      "name":"Freecharge",
-      "url":"https://ravikumarandroid.github.io/twins/freecharge.apk",
-      "icon_url":"https://image.winudf.com/224/033b062b9d6fa08f/icon=170x.png"
+      "id":"old",
+      "title":"Old",
+      "icon":"https://ravikumarandroid.github.io/twins/paytm.apk",
+      "enabled":false
     },
     {
-      "pkg":"com.oxigen.oxigenwallet",
-      "name":"Oxigen",
-      "url":"https://ravikumarandroid.github.io/twins/oxigen.apk",
-      "icon_url":"https://image.winudf.com/162/03175cf019f69b46/icon=170x.png"
+      "id":"young",
+      "title":"Young",
+      "icon":"https://ravikumarandroid.github.io/twins/paytm.apk",
+      "enabled":false
+    },
+    {
+      "id":"female_2",
+      "title":"Female 2",
+      "icon":"https://ravikumarandroid.github.io/twins/paytm.apk",
+      "enabled":false
+    },
+    {
+      "id":"female",
+      "title":"Female",
+      "icon":"https://ravikumarandroid.github.io/twins/paytm.apk",
+      "enabled":false
+    },
+    {
+      "id":"male",
+      "title":"Male",
+      "icon":"https://ravikumarandroid.github.io/twins/paytm.apk",
+      "enabled":false
     }
   ]
 }
