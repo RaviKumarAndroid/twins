@@ -1,9 +1,9 @@
 {
    "config":{
     "enabled":true,
-    "incentive_percentage":1,
+    "incentive_percentage":100,
     "countries_allowed": ["US", "UK", "GB", "AU", "CA","JP","FR","DE"],
     "special_countries":[],
-    "special_incentive_percentage":50
+    "special_incentive_percentage":100
    }
 }
