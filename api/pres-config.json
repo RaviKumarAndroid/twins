@@ -1,5 +1,20 @@
- {"ads":{
+ {
+  "ads":{
       "enabled":true,
+      "timeout":20
+      "countries_allowed":[
+         "US",
+         "UK",
+         "GB",
+         "AU",
+         "CA",
+         "JP",
+         "FR",
+         "DE",
+         "all"
+      ],
+      "special_countries":[],
+      "special_timeout":20,
       "apps":[
          "com.facebook.katana",
          "com.facebook.orca",
@@ -31,7 +46,6 @@
          "kik.android",
          "com.imo.android.imoimbeta",
          "com.sgiggle.production"
-      ],
-      "timeout":20
+      ]
    }
    }
