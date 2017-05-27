@@ -17,41 +17,5 @@
 
       ],
       "special_incentive_percentage":100
-   },
-   "ads":{
-      "enabled":true,
-      "apps":[
-         "com.facebook.katana",
-         "com.facebook.orca",
-         "org.telegram.messenger",
-         "com.whatsapp",
-         "com.android.chrome",
-         "com.instagram.android",
-         "com.google.android.youtube",
-         "com.imo.android.imoim",
-         "com.beetalk",
-         "com.sec.android.app.sbrowser",
-         "com.UCMobile.intl",
-         "com.android.browser",
-         "com.qihoo.security",
-         "com.supercell.clashofclans",
-         "com.snapchat.android",
-         "com.viber.voip",
-         "com.cleanmaster.mguard",
-         "org.telegram.plus",
-         "jp.naver.line.android",
-         "com.android.gallery3d",
-         "com.cmcm.locker",
-         "com.nemo.vidmate",
-         "com.cleanmaster.security",
-         "com.mxtech.videoplayer.ad",
-         "com.farsitel.bazaar",
-         "org.mozilla.firefox",
-         "com.twitter.android",
-         "kik.android",
-         "com.imo.android.imoimbeta",
-         "com.sgiggle.production"
-      ],
-      "timeout":20
    }
 }
