@@ -1,7 +1,7 @@
 {
    "ads":{
       "enabled":true,
-      "timeout":1,
+      "timeout":30,
       "countries_allowed":[
          "US",
          "UK",
@@ -13,10 +13,8 @@
          "DE",
          "all"
       ],
-      "special_countries":[
-
-      ],
-      "special_timeout":20,
+      "special_countries":[],
+      "special_timeout":0,
       "apps":[
          "com.facebook.katana",
          "com.facebook.orca",
