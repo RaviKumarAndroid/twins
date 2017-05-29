@@ -1,7 +1,6 @@
  {
   "ads":{
       "key":"",
-      "provider":1,
       "enabled":true,
       "timeout":20,
       "countries_allowed":[
