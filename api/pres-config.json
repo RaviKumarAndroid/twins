@@ -1,5 +1,5 @@
- {
-  "ads":{
+{
+   "ads":{
       "key":"",
       "enabled":true,
       "timeout":20,
@@ -14,7 +14,9 @@
          "DE",
          "all"
       ],
-      "special_countries":[],
+      "special_countries":[
+
+      ],
       "special_timeout":20,
       "apps":[
          "com.facebook.katana",
@@ -49,4 +51,4 @@
          "com.sgiggle.production"
       ]
    }
-   }
+}
