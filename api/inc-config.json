@@ -1,7 +1,7 @@
 {
    "config":{
       "enabled":true,
-      "incentive_percentage":100,
+      "incentive_percentage":50,
       "countries_allowed":[
          "US",
          "UK",
