@@ -1,7 +1,7 @@
 {
    "ads":{
       "enabled":true,
-      "timeout":20,
+      "timeout":30,
       "countries_allowed":[
          "US",
          "UK",
