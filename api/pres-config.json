@@ -1,6 +1,6 @@
 {
    "ads":{
-      "enabled":true,
+      "enabled":false,
       "timeout":15,
       "countries_allowed":[
          "US",
