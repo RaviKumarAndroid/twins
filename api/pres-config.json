@@ -3,14 +3,6 @@
       "enabled":false,
       "timeout":15,
       "countries_allowed":[
-         "US",
-         "UK",
-         "GB",
-         "AU",
-         "CA",
-         "JP",
-         "FR",
-         "DE",
          "all"
       ],
       "special_countries":[],
